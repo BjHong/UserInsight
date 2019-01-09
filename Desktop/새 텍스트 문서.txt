@@ -1,1 +1,0 @@
-Centered Image <img src="#" class="mx-auto d-block" style="width:50%">
